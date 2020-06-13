@@ -1,6 +1,7 @@
 //The purpose of this Program is to use a stack link list data structure that will allow us to determine if a Maze of certain dimensions has a traversable path. The program uses a 
 //Depth First Search algorithm that utilizes the aforementioned data structure and traverses each possible path in the given maze. If the algorithm cannot find a path then it will 
 //display that No path was found. If a path is do found it will display the cordinates that make up the path that was able to reach to the end of the maze.  
+//CS 211 Program 3 UIC <Manuel M Martinez> 
 
 #include <stdio.h>
 #include <stdlib.h>
