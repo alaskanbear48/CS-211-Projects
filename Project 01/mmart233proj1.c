@@ -2,7 +2,8 @@
 //Their input will later be sorted in ascending order. Then the program will ask the user to input desired target values that they wish to find from
 //the list of integers they had previously input. The program will then try to find two values that if added together will equal a target value. If the target 
 //is found then the user is informed if the target is or is not found. The program features the use of calloc wich allowed the creation of Dynamic array allocation.
-//This allowed for the array of the program to be dynamic and expand in size beyond its original size if needed.  
+//This allowed for the array of the program to be dynamic and expand in size beyond its original size if needed.
+//CS 211 Program 1 UIC <Manuel M Martinez> 
 
 #include <stdio.h>
 #include <stdlib.h>
