@@ -1,6 +1,7 @@
 //The purpose of this Program was to Use a Linked List type queue to store orders for a fast food restuarant. We are able to know the 
 //Waiting time of each order. What type of order (In-Restuarant or Call Ahead), and we are able to change it as well. In addition the 
 //program will be able to remove orders once they are picked up. The order that has been waiting the longest will be picked up first. 
+//CS 211 Program 4 UIC <Manuel M Martinez> 
 
 #include <stdio.h>
 #include <stdlib.h>
