@@ -2,7 +2,8 @@
 //a specific letter in L (a,b,c,d) mapped to a letter in L2 (m,n,o,p) respectively. When a word is valid it means that it was mapped 
 //correctly and thus could be decoded. The program implements stacks and dynamically allocated arrays in other to determine if a letter
 //is perfectly mapped. This program is user based wich means that a user must input a string of words that they wish to be decoded.
-//The program will then decide if it is able to decode the message by checking if words in the message are meaningful. 
+//The program will then decide if it is able to decode the message by checking if words in the message are meaningful.
+//CS 211 Program 2 UIC <Manuel M Martinez> 
 
 #include <stdio.h>
 #include <stdlib.h>
